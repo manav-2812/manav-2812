@@ -2,12 +2,13 @@
 
 # Manav Baghel
 
-### Full Stack / Backend Developer | Computer Science Engineering
+### Backend-Focused Full Stack Developer | Computer Science Engineering
 
 Building scalable web applications with a focus on clean architecture and real-world problem solving.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manav-baghel/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio-url.vercel.app)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat&logo=googledocs&logoColor=white)](https://your-resume-link.example)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:manavbaghhel@gmail.com)
 
 </div>
@@ -16,17 +17,40 @@ Building scalable web applications with a focus on clean architecture and real-w
 
 ## About Me
 
-I'm a final-year Computer Science Engineering student at Baba Banda Singh Bahadur Engineering College, Punjab, graduating in August 2027. I build full-stack applications end-to-end — from database design and backend APIs to responsive, polished frontends.
+I'm a final-year Computer Science Engineering student at Baba Banda Singh Bahadur Engineering College, Punjab, graduating in August 2027. I design and build full-stack applications from concept to deployment — from database design and backend APIs to responsive,responsive user interfaces.
 
-- Currently building **GrabBite**, a full-stack food delivery platform, and **Synapse**, a RAG-based study assistant
+- Currently building **GrabBite** (user authentication, restaurant management, cart persistence, payment integration, real-time order tracking) and **Synapse** (PDF ingestion, semantic search, conversational memory, AI-generated study notes)
 - Deepening my expertise in Spring Boot, system design, and scalable backend architecture
 - **Actively seeking SDE Internship and Full-Time opportunities for 2026**
-- Ask me about Java/Spring Boot, backend architecture, or building products from scratch
-- Outside of code: competitive chess, badminton, and hackathons
+- Focused on backend engineering, scalable REST APIs, database design, and system design fundamentals
+- Outside of code: competitive chess and badminton
 
 ---
 
-## Tech Stack
+## Core Competencies
+
+-Backend Development
+-REST API Design
+-Object-Oriented Programming
+-Database Design
+-System Design Fundamentals
+-Data Structures & Algorithms
+-API Integration
+-AI Applications (RAG)
+
+---
+
+## Currently Learning
+
+- Spring Security
+- System Design
+- Microservices
+- PostgreSQL Performance Tuning
+- DSA (LeetCode)
+
+---
+
+## Technologies & Tools
 
 **Languages**
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
@@ -61,16 +85,31 @@ I'm a final-year Computer Science Engineering student at Baba Banda Singh Bahadu
 ## Featured Projects
 
 ### GrabBite — Full-Stack Food Delivery Platform
-A production-style food ordering platform built with Spring Boot and PostgreSQL, featuring real-time order tracking via WebSockets and integrated payments through Razorpay.
 
-`Spring Boot` `PostgreSQL` `WebSockets` `Razorpay` `Railway`
+**Overview:** A production-style food ordering platform covering the full order lifecycle — browsing, cart, checkout, payment, and live order tracking.
 
-[Live Demo](https://your-grabbite-live-link.example) · [Repository](https://github.com/manav-2812/grabbite)
+**Key Features:**
+- User authentication and restaurant management
+- Cart persistence and checkout flow
+- Real-time order tracking via WebSockets
+- Integrated payments through Razorpay
+
+**Tech Stack:** `Flask` `PostgreSQL` `WebSockets` `Razorpay`
+**Deployment:** Railway
+
+[Live Demo](https://grabbite.up.railway.app/) · [Repository](https://github.com/manav-2812/grabbite)
 
 ### Synapse — RAG-Based Study Assistant
-An AI-powered study assistant using Retrieval-Augmented Generation to answer questions grounded in a user's own notes and documents, built on Groq's LLaMA 3.3 70B model with ChromaDB for vector retrieval.
 
-`Flask` `Groq API` `ChromaDB` `RAG Pipeline`
+**Overview:** An AI-powered study assistant that answers questions grounded in a user's own notes and documents using Retrieval-Augmented Generation.
+
+**Key Features:**
+- PDF ingestion and semantic search
+- Conversational memory across sessions
+- AI-generated study notes
+- Vector-based retrieval with ChromaDB
+
+**Tech Stack:** `Flask` `Groq API (LLaMA 3.3 70B)` `ChromaDB` `RAG Pipeline` `Vector Database`
 
 [Live Demo](https://your-synapse-live-link.example) · [Repository](https://github.com/manav-2812/synapse)
 
@@ -81,19 +120,25 @@ An AI-powered study assistant using Retrieval-Augmented Generation to answer que
 - **HackerRank — Java (Basic)**
 - **Deloitte — Job Simulation Certificate**
 
-*(Full list available on [LinkedIn](https://linkedin.com/in/your-linkedin-url))*
+*(Full list available on [LinkedIn](https://www.linkedin.com/in/manav-baghel/))*
 
 ---
 
 ## GitHub Stats
 
+
 <div align="center">
+  
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=manav-2812&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=manav-2812&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manav-2812&theme=tokyonight&hide_border=true)
-
+ 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manav-2812&theme=tokyo-night&hide_border=true)
+ 
 </div>
 
----
 ---
 
 <div align="center">
