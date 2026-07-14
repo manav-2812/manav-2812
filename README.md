@@ -85,6 +85,15 @@ An AI-powered study assistant using Retrieval-Augmented Generation to answer que
 
 ---
 
+## GitHub Stats
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manav-2812&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
 ---
 
 <div align="center">
