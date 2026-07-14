@@ -17,7 +17,7 @@ Building scalable web applications with a focus on clean architecture and real-w
 
 ## About Me
 
-I'm a final-year Computer Science Engineering student at Baba Banda Singh Bahadur Engineering College, Punjab, graduating in August 2027. I design and build full-stack applications from concept to deployment — from database design and backend APIs to responsive,responsive user interfaces.
+I'm a final-year Computer Science Engineering student at Baba Banda Singh Bahadur Engineering College, Punjab, graduating in August 2027. I design and build full-stack applications from concept to deployment — from database design and backend APIs to responsive user interfaces.
 
 - Currently building **GrabBite** (user authentication, restaurant management, cart persistence, payment integration, real-time order tracking) and **Synapse** (PDF ingestion, semantic search, conversational memory, AI-generated study notes)
 - Deepening my expertise in Spring Boot, system design, and scalable backend architecture
@@ -29,15 +29,14 @@ I'm a final-year Computer Science Engineering student at Baba Banda Singh Bahadu
 
 ## Core Competencies
 
--Backend Development
--REST API Design
--Object-Oriented Programming
--Database Design
--System Design Fundamentals
--Data Structures & Algorithms
--API Integration
--AI Applications (RAG)
-
+- Backend Development
+- REST API Design
+- Database Design
+- System Design Fundamentals
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- AI-Powered Applications (RAG)
+- API Integration
 ---
 
 ## Currently Learning
